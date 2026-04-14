@@ -1,0 +1,61 @@
+
+🔹 What is a Tag in Source Code?
+A tag is a label assigned to a specific point (commit) in the code repository to mark important versions like releases.
+Example: v1.0, v2.1
+
+🔹 What is a Release?
+A release is a packaged version of the software that is made available for users. It usually includes:
+Stable code
+Documentation
+Release notes
+
+Platforms like GitHub allow developers to create releases linked to tags.
+
+🎯 Purpose of Tags
+
+🔖 Version Identification
+Helps identify specific versions of the code (e.g., v1.0, v2.0)
+
+🧭 Easy Navigation
+Developers can quickly go back to a specific version
+
+🧪 Testing & Debugging
+Helps track bugs in a particular version
+
+📦 Supports Releases
+Tags are used to create official releases
+
+🎯 Purpose of Releases
+
+🚀 Distribute Software
+Provides users with a stable version of the application
+
+📄 Documentation & Notes
+Includes release notes explaining changes and updates
+
+🔐 Version Control
+Keeps track of different versions over time
+
+📥 Downloadable Files
+Users can download compiled files or source code
+
+🔁 Difference Between Tag and Release
+Feature
+Tag
+Release
+Definition
+Marker for a commit
+Packaged software version
+Purpose
+Version labeling
+Software distribution
+Contains files
+No
+Yes
+User visibility
+Mostly for developers
+For end users
+
+✅ Conclusion
+Tags help in marking important versions, while releases help in sharing stable software versions with users. Together, they ensure proper version management and smooth software distribution.
+
